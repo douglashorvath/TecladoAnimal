@@ -1,5 +1,5 @@
 # TecladoAnimal
-Projeto desenvolvido para o Curso de Pedagogia/UNESP para a disciplina de TIC no ano de 2018
+Projeto desenvolvido para o Curso de Pedagogia/UNESP para a disciplina de Tecnologia da Informação e Comunicação no ano de 2018
 
 Desenvolvido por mim para o projeto dos alunos:
 - Isis Vasconcellos
